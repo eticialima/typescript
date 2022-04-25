@@ -1,6 +1,6 @@
-# Curso de Typescript da Glaucia Lemos
+# Typescript Course by Glaucia Lemos
 
-Curso de Typescript
--modulo 01
--modulo 02
--modulo 03
+Typescript Course  
+-module 01
+-module 02
+-module 03
